@@ -1,0 +1,10 @@
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\WebApiServiceClient.exe.config
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\WebApiServiceClient.exe
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\WebApiServiceClient.pdb
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\obj\Debug\WebApiServiceClient.csprojResolveAssemblyReference.cache
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\obj\Debug\WebApiServiceClient.exe
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiServiceClient\obj\Debug\WebApiServiceClient.pdb

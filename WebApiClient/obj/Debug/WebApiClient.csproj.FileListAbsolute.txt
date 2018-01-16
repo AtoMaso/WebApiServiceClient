@@ -1,0 +1,15 @@
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\bin\Debug\WebApiClient.exe.config
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\bin\Debug\WebApiClient.exe
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\bin\Debug\WebApiClient.pdb
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\obj\Debug\WebApiClient.exe
+C:\Development\Angular_2_Apps\WebApiServiceClient\WebApiClient\obj\Debug\WebApiClient.pdb
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\bin\Debug\WebApiClient.exe.config
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\bin\Debug\WebApiClient.exe
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\bin\Debug\WebApiClient.pdb
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\obj\Debug\WebApiClient.exe
+C:\Development\Angular 2\WebApiServiceClient\WebApiClient\obj\Debug\WebApiClient.pdb
