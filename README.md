@@ -1,3 +1,0 @@
-# WebApiServiceClient
-
-Test
